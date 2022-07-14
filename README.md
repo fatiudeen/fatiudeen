@@ -13,10 +13,10 @@ class About implements Myself {
 ```
 
 <a href="https://github.com/fatiudeen/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fatiudeen&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
+  <img align="centre" width="47%"src="https://github-readme-stats.vercel.app/api?username=fatiudeen&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
 </a>
 <a href="https://github.com/fatiudeen/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiudeen&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="centre"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiudeen&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 <!--
