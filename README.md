@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+```ts
+class About implements Myself {
+  constructor(){
+    this.name = 'Shehu-Fatiudeen Lawal'
+    this.nickname = 'Deen'
+    this.AboutMe = 'I am a BackEnd and DevOps Engineer'
+    this.tech = ['Javascript', 'Typescript', 'Python', 'JSON', 'YAML']
+  }
+}
+
+```
+
+<a href="https://github.com/fatiudeen/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatiudeen&count_private=true&show_icons=true&theme=radical&hide=issues" />
+</a>
+<a href="https://github.com/fatiudeen/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiudeen&layout=compact&count_private=true&show_icons=true&theme=radical" />
+</a>
+
 <!--
 **fatiudeen/fatiudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
