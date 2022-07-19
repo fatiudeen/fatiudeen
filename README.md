@@ -11,7 +11,7 @@ class About implements Myself {
 }
 
 ```
-<div style="display:grid;grid-template-columns:1fr 1fr">
+<div style="display:grid;grid-template-columns:repeat(2,1fr)">
 <a href="https://github.com/fatiudeen/github-readme-stats">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=fatiudeen&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
 </a>
