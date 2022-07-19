@@ -11,12 +11,12 @@ class About implements Myself {
 }
 
 ```
-<div style="display:grid;grid-template-columns:repeat(2,1fr)">
-<a href="https://github.com/fatiudeen/github-readme-stats">
+<div style="display:flex">
+<a style="height:100%; width:50%" href="https://github.com/fatiudeen/github-readme-stats">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=fatiudeen&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
 </a>
-<a href="https://github.com/fatiudeen/github-readme-stats">
-  <img align="centre"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiudeen&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<a style="height:100%; width:100%" href="https://github.com/fatiudeen/github-readme-stats">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiudeen&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 </div>
 
