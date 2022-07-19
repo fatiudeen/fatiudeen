@@ -11,13 +11,14 @@ class About implements Myself {
 }
 
 ```
-
+<div style="display:grid;grid-template-columns:1fr 1fr">
 <a href="https://github.com/fatiudeen/github-readme-stats">
-  <img align="centre" width="47%"src="https://github-readme-stats.vercel.app/api?username=fatiudeen&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=fatiudeen&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
 </a>
 <a href="https://github.com/fatiudeen/github-readme-stats">
   <img align="centre"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiudeen&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
+</div>
 
 <!--
 **fatiudeen/fatiudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
