@@ -6,17 +6,18 @@ class About implements Myself {
   public alive: boolean = true;
   constructor(){
     this.name = 'Shehu-Fatiudeen Lawal';
-    this.alais = 'Deen';
+    this.alias = 'Deen';
     this.hobbies =['coding', 'music', 'anime', 'psychology', 'learning about our history'];
     this.purpose();
   }
   
   private purpose() {
     while(this.alive) {
-      return 'Learn from the Past, Live in the Present, Prepare for the Future';
+      return 'Learn from the Past,
+              Live in the Present, 
+              Prepare for the Future';
     }
   }
-  
 }
 
 ```
