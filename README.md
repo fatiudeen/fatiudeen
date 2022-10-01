@@ -49,6 +49,10 @@ class About implements Myself {
 <br/>
 <br/>
 
+## Holopins
+
+[![@fatiudeen's Holopin board](https://holopin.io/api/user/board?user=fatiudeen)](https://holopin.io/@fatiudeen)
+
 ## Connect with me:
 <p align="left">
 
