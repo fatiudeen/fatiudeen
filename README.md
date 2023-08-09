@@ -2,16 +2,11 @@
 
 
 ```ts
-class About implements Myself {
-  public alive: boolean = true;
-  constructor(){
-    this.name = 'Shehu-Fatiudeen Lawal';
-    this.alias = 'Deen';
-    this.hobbies =['coding', 'music', 'anime', 'psychology', 'learning about our history'];
-    this.purpose();
-  }
-  
-  private purpose() {
+interface IFatiudeen {
+  name = 'Shehu-Fatiudeen Lawal';
+  alias = 'Deen';
+  hobbies =['coding', 'music', 'anime', 'psychology', 'learning about our history'];
+  purpose(alive = true){
     while(this.alive) {
       return 'Learn from the Past,
               Live in the Present, 
@@ -19,6 +14,7 @@ class About implements Myself {
     }
   }
 }
+
 
 ```
 
@@ -63,8 +59,10 @@ class About implements Myself {
 </a>
 <a href="https://github.com/fatiudeen?tab=followers"><img src="https://img.shields.io/github/followers/fatiudeen?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture>
+</picture> -->
+
+![Snake animation](https://github.com/fatiudeen/fatiudeen/blob/output/github-contribution-grid-snake.svg)
