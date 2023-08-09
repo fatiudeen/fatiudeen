@@ -62,3 +62,5 @@ class About implements Myself {
     <img src="https://komarev.com/ghpvc/?username=fatiudeen">
 </a>
 <a href="https://github.com/fatiudeen?tab=followers"><img src="https://img.shields.io/github/followers/fatiudeen?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<!-- ![Snake animation](https://github.com/fatiudeen/fatiudeen/blob/output/github-contribution-grid-snake.svg) -->
