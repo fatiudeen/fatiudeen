@@ -59,13 +59,14 @@ interface IFatiudeen {
 </a>
 <a href="https://github.com/fatiudeen?tab=followers"><img src="https://img.shields.io/github/followers/fatiudeen?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<!-- <picture>
+
+
+
+<br/>
+<br/>
+<!-- ![Snake animation](https://github.com/fatiudeen/fatiudeen/blob/output/github-contribution-grid-snake.svg) -->
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
-</picture> -->
-
-
-<br/>
-<br/>
-![Snake animation](https://github.com/fatiudeen/fatiudeen/blob/output/github-contribution-grid-snake.svg)
+</picture>
