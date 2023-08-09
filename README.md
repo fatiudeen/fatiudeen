@@ -65,4 +65,7 @@ interface IFatiudeen {
   <img alt="github-snake" src="github-snake.svg" />
 </picture> -->
 
+
+<br/>
+<br/>
 ![Snake animation](https://github.com/fatiudeen/fatiudeen/blob/output/github-contribution-grid-snake.svg)
